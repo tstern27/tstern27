@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on Augmented reality projects using the Magic Leap, Discord bots, or anything else that sounds intriguing. 
 - 📫 You can reach me at tstern2797@gmail.com
 
+I also did a lot of work on the https://github.com/untaris2020/HMD and https://github.com/untaris2020/EHS projects so go check those out as well!
+
 <!---
 tstern27/tstern27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
